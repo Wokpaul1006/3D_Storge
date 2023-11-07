@@ -1,0 +1,44 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Main_Body/Metal_Seamed.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Aluminum
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.701961 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Main_Body/Aluminum.jpg
+
+newmtl Wood_Lumber_ButtJoined
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.596078 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd Main_Body/Wood_Lumber_ButtJoined.jpg
+
+newmtl CarbonFiber
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.105882 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd Main_Body/CarbonFiber.jpg
+
+newmtl _Wood_Lumber_ButtJoined_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.596078 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd Main_Body/_Wood_Lumber_ButtJoined_1.jpg
+
+newmtl Color_F05
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
